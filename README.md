@@ -11,7 +11,7 @@
 ### App Store
 Showcase |
 :-------------------------:|
-![](https://github.com/quanglddev/OpenWhenLetter/blob/main/assets/screenshots/IMG_4109_Original.PNG?raw=true) |
+![](https://github.com/quanglddev/OpenWhenLetter/blob/main/assets/screenshots/IMG_4109_Original.jpg?raw=true) |
 
 ## Previews
 Login | Home Screen 1 | Home Screen 2
